@@ -1,2 +1,2 @@
 # SecuredJavaWeb
-java based mvc website and security
+PHP based mvc website and security
